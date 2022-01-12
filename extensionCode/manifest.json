@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "name": "BKTV player full screen fix",
+    "version": "1.0.0",
+    "description": "Fixes the aspect ratio on the full screen player. It is no longer stretched.",
+    "content_scripts": [
+        {
+            "css": [
+                "./styles.css"
+            ],
+            "matches": [
+                "https://watch.bareknuckle.tv/watch/*"
+            ]
+        }
+    ],
+    "browser_action": {
+        "default_icon": "images/icon.png"
+    },
+    "icons": {
+        "16": "images/icon.png",
+        "32": "images/icon.png",
+        "48": "images/icon.png",
+        "128": "images/icon.png"
+    }
+}
