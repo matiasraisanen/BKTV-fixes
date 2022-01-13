@@ -1,6 +1,6 @@
 # BKTV Video player fixes
 
-This Chrome extension includes two fixes for the Bare Knuckle TV video player.
+This Chrome extension includes two fixes for the [Bare Knuckle TV](https://watch.bareknuckle.tv/) video player.
 
 ## 1. Fix the aspect ratio of full screen video
 [fixFullScreen.css](extensionCode/fixFullScreen.css)
