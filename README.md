@@ -18,7 +18,7 @@ This doesn't seem to work, however, as the play starts at 0 seconds regardless.
 
 This is fixed by injecting a snippet of javascript on the page, which tells the video player to load the video at the correct time stamp. 
 
-To start the video, **first click on the seek bar** at the pre-loaded location and **then click the play-button**. Clicking the play-button alone does not seem to start the playback.
+To start the video, **click on the seek bar** at the pre-loaded position. Clicking the play-button alone does not seem to start the playback.
 
 ## How to install
 
