@@ -6,7 +6,10 @@
     "content_scripts": [
         {
             "css": [
-                "./styles.css"
+                "./fixFullScreen.css"
+            ],
+            "js": [
+                "./fixContinueWatching.js"
             ],
             "matches": [
                 "https://watch.bareknuckle.tv/watch/*"
