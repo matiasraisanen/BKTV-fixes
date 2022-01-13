@@ -34,6 +34,8 @@ To start the video, **first click on the seek bar** at the pre-loaded location a
 
 -------
 ## Before and after
+Before and after images on a 21:9 screen.
+
 ![before](./images/before.png "Before")  
 -Before
 
