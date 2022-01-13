@@ -29,7 +29,7 @@ To start the video, **first click on the seek bar** at the pre-loaded location a
 
 3. Click the "Load unpackaged"-button that just popped up and select `./extensionCode`-folder from this repo.
 
-4. Extension is now enabled. Reload auth0 site if it does not work.  
+4. Extension is now enabled. Reload the website if it does not work.  
 
 
 -------
